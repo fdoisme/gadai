@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+#root {
+  max-width: 100vw;
+  margin: 0;
+  text-align: center;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Averia Serif Libre", serif;
+  font-weight: 800;
+  font-style: normal;
+}
